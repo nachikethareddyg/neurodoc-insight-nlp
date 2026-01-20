@@ -51,3 +51,28 @@ Python, spaCy (or NLTK), regex, pandas (optional)
 2. Run:
 ```bash
 python src/extract_insights.py
+
+## Example Output
+
+python src/extract_insights.py
+
+=== NeuroDoc Insight (Demo) ===
+
+Summary:
+Patient reports persistent headache for 3 days with mild nausea. No fever.
+
+Medical Terms Detected:
+chest, headache, hydration, pain, shortness, sleep
+
+Top Keywords:
+- persistent: 1
+- headache: 1
+- 3: 1
+- days: 1
+- mild: 1
+- nausea.: 1
+- fever.: 1
+- history: 1
+
+After running:
+```bash
