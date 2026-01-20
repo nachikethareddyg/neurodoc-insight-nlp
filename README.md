@@ -45,3 +45,9 @@ Python, spaCy (or NLTK), regex, pandas (optional)
 - Add entity linking to medical vocabularies
 - Add evaluation (precision/recall) on sample labels
 - Add lightweight transformer summarization (optional)
+
+- ## How to Run (Local)
+1. Download or clone this repository
+2. Run:
+```bash
+python src/extract_insights.py
